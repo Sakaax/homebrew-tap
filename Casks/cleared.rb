@@ -7,8 +7,6 @@ cask "cleared" do
   desc "Passe la review App Store du premier coup — analyse locale de tes builds iOS"
   homepage "https://cleared.sakaax.com"
 
-  depends_on macos: ">= :sequoia"
-
   app "Cleared.app"
 
   zap trash: [
