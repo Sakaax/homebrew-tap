@@ -1,6 +1,6 @@
 cask "cleared" do
-  version "1.0"
-  sha256 "42cb04fc055395262cdd0c267c690b81bade7aaaeeba3f0daad86b70a340666e"
+  version "1.1"
+  sha256 "7b7f1349cf90a390f5525ed599f4c1dee50dafda7cafb47cfe3e7d2508ec8d02"
 
   url "https://cleared.sakaax.com/downloads/Cleared-#{version}.dmg"
   name "Cleared"
